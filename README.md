@@ -32,6 +32,10 @@
 8. Lecture9:
    * Number Systems -> Decimal to Binary, Decimal To Octal
 
+9. Lecture10:
+   * Arrays --> Intro to 1D array, loops in arrays
+   * PracticeArrays --> practice ques on arrays
+
 ### Directory Notes contains all Notes 
 
 ### Blogs: You can explore this file and read blogs, this will be updated throughout the course
