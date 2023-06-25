@@ -36,6 +36,9 @@
    * Arrays --> Intro to 1D array, loops in arrays
    * PracticeArrays --> practice ques on arrays
 
+10. Lecture11:
+   * TimeComp : Different Time Comp ques
+
 ### Directory Notes contains all Notes 
 
 ### Blogs: You can explore this file and read blogs, this will be updated throughout the course

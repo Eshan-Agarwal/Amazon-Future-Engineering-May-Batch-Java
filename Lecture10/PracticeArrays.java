@@ -59,6 +59,20 @@ public class PracticeArrays {
         System.out.println("Last IDX: " + li);
     }
 
+    public static void method() {
+        int a = 1;
+        int a = 1;
+        int a = 1;
+        int a = 1;
+        int a = 1;
+        int a = 1;
+        int a = 1;
+        int a = 1;
+        int a = 1;
+
+
+    }
+
     // Space --> O(N)
     public static int[] revereArrMethod1(int[] arr) {
         // write your code
