@@ -48,8 +48,8 @@ public class Patterns {
 //        diagnol(n);
 //        diag(n);
 //        pattern3(n); //Calling method argument
-        pattern10(7);
-
+//        pattern10(7);
+        hollowSquare(5);
     }
 
     public static void diag(int n) {
@@ -190,6 +190,26 @@ public class Patterns {
                 nst -= 2;
             }
 
+
+        }
+
+    }
+
+    public static void hollowSquare(int n) {
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (i == 1 || i == n) {
+                    System.out.print("\t*");
+                } else {
+                    if (j == 1 || j == n) {
+                        System.out.print("\t*");
+                    } else {
+                        System.out.print("\t");
+                    }
+                }
+            }
+            System.out.println();
             System.out.println();
         }
 

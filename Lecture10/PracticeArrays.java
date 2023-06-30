@@ -30,9 +30,10 @@ public class PracticeArrays {
 //        System.out.println("enter the num");
 //        int num = scn.nextInt();
 //        firstAndLastIDXOfElementMethod1(arr, num);
-
-        revereArrMethod2(arr);
-        printArr(arr);
+//
+//        revereArrMethod2(arr);
+//        printArr(arr);
+        subArrays(arr);
     }
 
     public static void printArr(int[] arr) {
@@ -61,14 +62,14 @@ public class PracticeArrays {
 
     public static void method() {
         int a = 1;
-        int a = 1;
-        int a = 1;
-        int a = 1;
-        int a = 1;
-        int a = 1;
-        int a = 1;
-        int a = 1;
-        int a = 1;
+//        int a = 1;
+//        int a = 1;
+//        int a = 1;
+//        int a = 1;
+//        int a = 1;
+//        int a = 1;
+//        int a = 1;
+//        int a = 1;
 
 
     }
@@ -158,6 +159,19 @@ public class PracticeArrays {
             }
         }
         return -1;
+    }
+
+    public static void subArrays(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                for (int k = i; k <= j; k++) {
+                    System.out.print(arr[k] + " ");
+                }
+                System.out.println();
+            }
+        }
+
     }
 
 }
