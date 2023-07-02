@@ -6,14 +6,15 @@ public class PracticeArrays {
 
         Scanner scn = new Scanner(System.in);
 //
-        System.out.println("Enter size");
-        int size = scn.nextInt();
+//        System.out.println("Enter size");
+//        int size = scn.nextInt();
+//
+//        int[] arr = new int[size];
+//        System.out.println("Enter arr elements");
+//        for (int i = 0; i < size; i++) {
+//            arr[i] = scn.nextInt();
+//        }
 
-        int[] arr = new int[size];
-        System.out.println("Enter arr elements");
-        for (int i = 0; i < size; i++) {
-            arr[i] = scn.nextInt();
-        }
 //        System.out.println("Enter element to found");
 //        int d = scn.nextInt();
 //
@@ -38,9 +39,14 @@ public class PracticeArrays {
 //        System.out.println("Enter rotation value");
 //        int r = scn.nextInt();
 //        rotateArr(arr, r);
-        System.out.println("Enter tar value");
-        int tar = scn.nextInt();
-        countPairWithGivenSum(arr, tar);
+//        System.out.println("Enter tar value");
+//        int tar = scn.nextInt();
+//        countPairWithGivenSum(arr, tar);
+//        barChart(arr);
+
+        int[] arr1 = new int[] {3,1,0,7,5};
+        int[] arr2 = new int[] {1,1,1,1,1,1};
+        addTwoArr(arr1, arr2);
 
     }
 
@@ -240,6 +246,72 @@ public class PracticeArrays {
                 }
             }
         }
+
+    }
+
+    public static int maxInArr(int[] arr) {
+        int max = Integer.MIN_VALUE;
+        for (int val: arr) {
+            max = Math.max(max, val);
+//            if (max < val) {
+//                max = val;
+//            }
+        }
+        return max;
+    }
+
+    public static void barChart(int[] arr) {
+
+        int maxHeight = maxInArr(arr);
+
+        for (int height = maxHeight; height >= 1; height--) {
+            for (int towerHeight: arr) {
+                if (towerHeight >= height) {
+                    System.out.print("*\t");
+                } else {
+                    System.out.print(" \t");
+                }
+            }
+            System.out.println();
+        }
+    }
+
+    public static void addTwoArr(int[] arr1, int[] arr2) {
+        int n1 = arr1.length;
+        int n2 = arr2.length;
+        int sizeAns = (n1 > n2) ? n1 + 1 : n2 + 1; // Ternary Operator
+        int[] ans = new int[sizeAns];
+        int i = n1 - 1;
+        int j = n2 - 1;
+        int k = ans.length - 1;
+        int carry = 0;
+        while(i >= 0 || j >= 0) {
+            int sum  = carry;
+            if (i >= 0) {
+                sum += arr1[i];
+            }
+            if (j >= 0) {
+                sum += arr2[j];
+            }
+            carry = sum / 10;
+            sum = sum % 10;
+            ans[k] = sum;
+            i--; j--; k--;
+        }
+        if (carry > 0) {
+            ans[k] = carry;
+        }
+
+        // Printing the Array
+        for(i = 0; i < ans.length; i++) {
+            int val = ans[i];
+            if (i == 0 && val > 0) {
+                System.out.print(val + " ");
+            } else if (i > 0){
+                System.out.print(val + " ");
+            }
+        }
+
 
     }
 
