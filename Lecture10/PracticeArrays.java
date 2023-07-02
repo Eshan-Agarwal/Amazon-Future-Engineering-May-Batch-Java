@@ -33,7 +33,15 @@ public class PracticeArrays {
 //
 //        revereArrMethod2(arr);
 //        printArr(arr);
-        subArrays(arr);
+//        subArrays(arr);
+//        alternatePrint(arr);
+//        System.out.println("Enter rotation value");
+//        int r = scn.nextInt();
+//        rotateArr(arr, r);
+        System.out.println("Enter tar value");
+        int tar = scn.nextInt();
+        countPairWithGivenSum(arr, tar);
+
     }
 
     public static void printArr(int[] arr) {
@@ -169,6 +177,67 @@ public class PracticeArrays {
                     System.out.print(arr[k] + " ");
                 }
                 System.out.println();
+            }
+        }
+
+    }
+
+    public static void alternatePrint(int[] arr) {
+
+        int n = arr.length;
+        for (int i = 0; i < n; i++) {
+            if (i % 2 == 0) {
+                System.out.println(arr[i]);
+            }
+        }
+
+    }
+
+    public static void reverse(int[] arr, int si, int ei) {
+       while (si < ei) {
+           int temp = arr[si];
+           arr[si] = arr[ei];
+           arr[ei] = temp;
+           si++; ei--;
+       }
+    }
+
+    public static void rotateArr(int[] arr, int r) {
+        int n = arr.length;
+        // code here
+        r = r % n;
+        if (r < 0) {
+            r += n;
+        }
+        reverse(arr, 0, n - 1 - r);
+        reverse(arr, n - r, n - 1);
+        reverse(arr, 0, n - 1);
+        printArr(arr);
+    }
+
+    public static void  countOddPair(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                int sum = arr[i] + arr[j];
+                if (sum % 2 == 1) { // odd
+                    System.out.println(arr[i] + " " + arr[j]);
+                    System.out.println(arr[j] + " " + arr[i]);
+                }
+            }
+        }
+
+    }
+
+    public static void  countPairWithGivenSum(int[] arr, int tar) {
+        int n = arr.length;
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                int sum = arr[i] + arr[j];
+                if (sum == tar) {
+                    System.out.println(arr[i] + " " + arr[j]);
+                    System.out.println(arr[j] + " " + arr[i]);
+                }
             }
         }
 
