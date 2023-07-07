@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture10/PracticeArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10/PracticeArrays.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lecture10/PracticeArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10/PracticeArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture6/Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture6/Patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Arrays_practice_01_July_23.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Arrays_practice_01_July_23.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +28,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/eshan/OneDrive/Desktop/Amazon-Future-Engineering-May-Batch-Java/Notes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eshan/OneDrive/Desktop/Amazon-Future-Engineering-May-Batch-Java/Notes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\eshan\OneDrive\Desktop\Amazon-Future-Engineering-May-Batch-Java\Notes" />

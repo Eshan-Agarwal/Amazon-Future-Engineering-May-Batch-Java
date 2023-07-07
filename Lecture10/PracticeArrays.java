@@ -211,7 +211,7 @@ public class PracticeArrays {
     public static void rotateArr(int[] arr, int r) {
         int n = arr.length;
         // code here
-        r = r % n;
+        r = r % n; // both pos and neg r values
         if (r < 0) {
             r += n;
         }
