@@ -44,9 +44,12 @@ public class PracticeArrays {
 //        countPairWithGivenSum(arr, tar);
 //        barChart(arr);
 
-        int[] arr1 = new int[] {3,1,0,7,5};
-        int[] arr2 = new int[] {1,1,1,1,1,1};
-        addTwoArr(arr1, arr2);
+//        int[] arr1 = new int[] {3,1,0,7,5};
+//        int[] arr2 = new int[] {1,1,1,1,1,1};
+//        addTwoArr(arr1, arr2);
+
+        char ch = scn.next().charAt(0);
+        toggleChar(ch);
 
     }
 
@@ -199,6 +202,8 @@ public class PracticeArrays {
 
     }
 
+    // Time: O(N)
+    // Space: O(1)
     public static void reverse(int[] arr, int si, int ei) {
        while (si < ei) {
            int temp = arr[si];
@@ -207,6 +212,7 @@ public class PracticeArrays {
            si++; ei--;
        }
     }
+
 
     public static void rotateArr(int[] arr, int r) {
         int n = arr.length;
@@ -313,6 +319,49 @@ public class PracticeArrays {
         }
 
 
+    }
+
+    public static void toggleChar(char ch) {
+
+        if (! Character.isLetter(ch)) {
+            System.out.println("No alphabet");
+        } else {
+            if (isCharBelongToGivenGroup(ch)) {
+                System.out.println("Sorry");
+            } else {
+                char toggleCh = toggleCharacter(ch);
+                char shiftChar = leftshiftCharacter(toggleCh);
+                System.out.println(shiftChar);
+            }
+        }
+    }
+
+    public static char leftshiftCharacter(char ch) {
+        return (char)((int)ch - 2);
+    }
+
+    public static char toggleCharacter(char ch) {
+
+        if (Character.isUpperCase(ch)) {
+
+            ch = (char)((int)ch + 32);
+
+        } else if (Character.isLowerCase(ch)) {
+
+            ch = (char)((int)ch - 32);
+
+        }
+
+        System.out.println("Toggle Result: " + ch);
+        return ch;
+    }
+
+    public static boolean isCharBelongToGivenGroup(char ch) {
+
+        if (ch == 'a' || ch == 'A' || ch == 'b' || ch == 'B') {
+            return true;
+        }
+        return false;
     }
 
 }
