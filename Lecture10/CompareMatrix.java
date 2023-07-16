@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class CompareMatrix {
 
     public static void main(String[] args) {
-        Scanner scn = new Scanner(System.in);
+        Scanner scn = new Scanner(System.in); // instance of Scanner
 
         int n1 = scn.nextInt();
         int m1 = scn.nextInt();
