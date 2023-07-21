@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture10/Input2DArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/Input2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/LowerTrianglularMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/LowerTrianglularMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/SaddlePoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/SaddlePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/SpiralPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/SpiralPrint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture10/CompareMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10/CompareMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +30,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/eshan/OneDrive/Desktop/Amazon-Future-Engineering-May-Batch-Java/Notes&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\eshan\OneDrive\Desktop\Amazon-Future-Engineering-May-Batch-Java\Notes" />
@@ -68,6 +64,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
