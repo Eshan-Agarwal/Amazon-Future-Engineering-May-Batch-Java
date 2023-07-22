@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture10/SaddlePoint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/SaddlePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/SpiralPrint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/SpiralPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/Convert1DTo2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/Convert1DTo2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/MatrixMul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/MatrixMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/Transpose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +34,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Notes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\OneDrive\Desktop\Amazon-Future-Engineering-May-Batch-Java\Notes" />
       <recent name="C:\Users\eshan\OneDrive\Desktop\Amazon-Future-Engineering-May-Batch-Java\Notes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
