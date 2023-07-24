@@ -5,12 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture10/Convert1DTo2D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/Convert1DTo2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/MatrixMul.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/MatrixMul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/Transpose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/ModifyMat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/ModifyMat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Arrays2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Arrays2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/CompareMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/CompareMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Convert1DTo2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Convert1DTo2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/DiffOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/DiffOfArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Input2DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Input2DArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/InterChangeTheRow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/InterChangeTheRow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/LowerTrianglularMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/LowerTrianglularMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/MatrixMul.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/MatrixMul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/PracticeArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/PracticeArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Print2DArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Print2DArr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Print2DArrAlternateRow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Print2DArrAlternateRow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/RotateBy90.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/RotateBy90.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/SaddlePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/SaddlePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/SnakePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/SnakePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/SpiralPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/SpiralPrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Transpose.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +64,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Notes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lecture10" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/Lecture10" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
