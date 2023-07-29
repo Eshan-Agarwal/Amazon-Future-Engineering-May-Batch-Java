@@ -7,7 +7,7 @@ public class Input2DArray {
         Scanner scn = new Scanner(System.in);
 
         int n = scn.nextInt();
-        int m = n;
+        int m = scn.nextInt();
 
         int[][] arr = new int[n][m];
 

@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lecture10/CheckPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture10/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/BasicString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/BasicString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Input2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10/Input2DArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture10/Input2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10/Input2DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +32,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lecture10" />
-    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/Lecture10" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "jdk.selected.JAVA_MODULE": "1.8"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\OneDrive\Desktop\Amazon-Future-Engineering-May-Batch-Java\Notes" />
