@@ -39,6 +39,9 @@
 10. Lecture11:
    * TimeComp : Different Time Comp ques
 
+11. Lecture12:
+   * Strings : Intro to Strings and string memories
+
 ### Directory Notes contains all Notes 
 
 ### Blogs: You can explore this file and read blogs, this will be updated throughout the course
