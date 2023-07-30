@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture10/CheckPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture10/CheckPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture12/BasicString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture12/BasicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assessment/Assessment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/IsAnagrams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/IsAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/IsogramStr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/IsogramStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/PrintFirstVowel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/PrintFirstVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture10/Input2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10/Input2DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture10/Input2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture10/Input2DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
