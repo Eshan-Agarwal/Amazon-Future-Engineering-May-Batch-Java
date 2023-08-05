@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assessment/Assessment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture12/IsAnagrams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture12/IsAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture12/IsogramStr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture12/IsogramStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture12/PrintFirstVowel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture12/PrintFirstVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/IsEqual.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/IsEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/IsPangram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/IsPangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/PrintAllPalindromicSubstr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/PrintAllPalindromicSubstr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/PrintIdxVowels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/PrintIdxVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/SearchChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/SearchChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/StringBuilderIntro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/StringBuilderIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/StringCompression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture12/StringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/String_Notes/Strings_22July_2ndSession.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +41,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "jdk.selected.JAVA_MODULE": "1.8"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\OneDrive\Desktop\Amazon-Future-Engineering-May-Batch-Java\Notes" />
