@@ -4,10 +4,16 @@ public class RecursionIntro {
     public static void main(String[] args) {
         int n = 5;
 
-        recursion(n);
+//        printDecreasing(n);
+        recursion();
     }
 
-    public static void recursion(int n) {
+    public static void recursion() {
+        System.out.println("I am in recursive loop");
+        recursion();
+    }
+
+    public static void printDecreasing(int n) {
 
         System.out.println("Starting Recursive Stack " + n);
         // base condition
@@ -17,7 +23,7 @@ public class RecursionIntro {
 
         System.out.println(n);
 //        n--;
-        recursion(n - 1);
+        printDecreasing(n - 1);
         System.out.println("Ending Recursive Stack " + n);
 
 
