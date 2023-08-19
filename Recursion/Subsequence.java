@@ -7,10 +7,12 @@ public class Subsequence {
 //        printAllSubseq1(str, "");
 //        printAllSubseq2(str, "", 0);
 
-        System.out.println(printAllSubseq3(str, "", 0));
+        System.out.println(printAllSubseq4Best(str, 0));
     }
 
 
+    // T(N) --> 2^N
+    // S(N) --> Recusive Stack --> O(N)
     public static void printAllSubseq1(String str, String ans) {
 
             // base case
@@ -29,6 +31,8 @@ public class Subsequence {
 
     }
 
+    // T(N) --> 2^N
+    // S(N) --> Recusive Stack --> O(N)
     public static void printAllSubseq2(String str, String ans, int idx) {
 
         // base case
@@ -46,6 +50,8 @@ public class Subsequence {
 
     }
 
+    // T(N) --> 2^N
+    // S(N) --> Recusive Stack O(N) + O(2^n) (store output) --> O(2^n)
     public static ArrayList<String> printAllSubseq3(String str, String ans, int idx) {
 
         // base case
@@ -70,6 +76,39 @@ public class Subsequence {
             currAns.add(val);
         }
         return currAns;
+    }
+
+
+    // T(N) --> linear
+    // S(N) --> Recusive Stack O(N) + O(2^n) (store output) --> O(2^n)
+    public static ArrayList<String> printAllSubseq4Best(String str, int idx) {
+
+        // base case
+        if (idx == str.length()) {
+
+            ArrayList<String> bans = new ArrayList<>();
+            bans.add("");
+            return bans;
+        }
+
+        char ch = str.charAt(idx);
+
+        // faith call
+        ArrayList<String> recAns = printAllSubseq4Best(str, idx + 1);
+
+        ArrayList<String> myAns = new ArrayList<>();
+
+        // char will come
+        for (String val: recAns) {
+            myAns.add(ch + val);
+        }
+
+        // char will not come
+        for (String val: recAns) {
+            myAns.add(val);
+        }
+
+        return myAns;
     }
 
 
