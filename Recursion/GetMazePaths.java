@@ -18,7 +18,7 @@ public class GetMazePaths {
         }
 
         // base case
-        if (si == di && sj == dj) {
+        if (si == di &&cd Re     sj == dj) {
             List<String> bans = new ArrayList<>();
             bans.add("");
             return bans;
