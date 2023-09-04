@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sorting/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/MergeTwoSortedArr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/MergeTwoSortedArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
