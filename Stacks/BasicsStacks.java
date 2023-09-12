@@ -22,7 +22,23 @@ public class BasicsStacks {
 //
 //        System.out.println(st.isEmpty());
 
-        solution();
+//        solution();
+
+
+        MyNormalStack myNormalStack = new MyNormalStack(5);
+
+        myNormalStack.push(10);
+        myNormalStack.push(20);
+        myNormalStack.push(30);
+        myNormalStack.push(40);
+        myNormalStack.push(50);
+        myNormalStack.display();
+
+        System.out.println("POP: " + myNormalStack.pop());
+        System.out.println("POP: " + myNormalStack.pop());
+        System.out.println("PEEK: " + myNormalStack.peek());
+        System.out.println("size: " + myNormalStack.size());
+        myNormalStack.display();
     }
 
     public static void solution() {
