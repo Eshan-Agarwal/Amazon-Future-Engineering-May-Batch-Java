@@ -25,20 +25,27 @@ public class BasicsStacks {
 //        solution();
 
 
-        MyNormalStack myNormalStack = new MyNormalStack(5);
+//        MyNormalStack myNormalStack = new MyNormalStack(5);
+//
+//        myNormalStack.push(10);
+//        myNormalStack.push(20);
+//        myNormalStack.push(30);
+//        myNormalStack.push(40);
+//        myNormalStack.push(50);
+//        myNormalStack.display();
+//
+//        System.out.println("POP: " + myNormalStack.pop());
+//        System.out.println("POP: " + myNormalStack.pop());
+//        System.out.println("PEEK: " + myNormalStack.peek());
+//        System.out.println("size: " + myNormalStack.size());
+//        myNormalStack.display();
+        QueueToStackAdapter stack = new QueueToStackAdapter();
+        stack.push(10);
+        stack.push(20);
+        stack.push(30);
+        System.out.println(stack.pop());
+        System.out.println(stack.peek());
 
-        myNormalStack.push(10);
-        myNormalStack.push(20);
-        myNormalStack.push(30);
-        myNormalStack.push(40);
-        myNormalStack.push(50);
-        myNormalStack.display();
-
-        System.out.println("POP: " + myNormalStack.pop());
-        System.out.println("POP: " + myNormalStack.pop());
-        System.out.println("PEEK: " + myNormalStack.peek());
-        System.out.println("size: " + myNormalStack.size());
-        myNormalStack.display();
     }
 
     public static void solution() {
