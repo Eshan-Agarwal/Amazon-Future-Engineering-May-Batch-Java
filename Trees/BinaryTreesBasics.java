@@ -9,14 +9,23 @@ public class BinaryTreesBasics {
 //        root.left = leftRootChild;
 //        root.right = rightRootChild;
 
-        Integer[] arr = new Integer[]{50,25,12,null,null,37,null,null,75,67,null,null,88,null,null};
+        Integer[] arr = new Integer[]{10, 20, 50, null, 60, null, null, 30, 70, 65,null,null, 80, null, 90, null,null, 40, 100, null, null, null, null};
 
         ConstructTreeWithStack constructTreeWithStack = new ConstructTreeWithStack();
 
         BinaryTreeNode root = constructTreeWithStack.construct(arr);
+//
+//        LevelOrder levelOrder = new LevelOrder();
+//        levelOrder.solution(root);
+//
+//        SumOfRootToLeafBinaryNum sumOfRootToLeafBinaryNum = new SumOfRootToLeafBinaryNum();
+//        System.out.println("SUM: " + sumOfRootToLeafBinaryNum.sol(root, ""));
+//
+//        Diameter d = new Diameter();
+//        d.solution(root);
 
-        LevelOrder levelOrder = new LevelOrder();
-        levelOrder.solution(root);
+        SumOfLeftLeaf sumOfLeftLeaf = new SumOfLeftLeaf();
+        System.out.println(sumOfLeftLeaf.solution(root));
     }
 
 }
