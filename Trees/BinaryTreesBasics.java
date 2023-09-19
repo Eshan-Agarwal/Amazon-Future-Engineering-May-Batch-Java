@@ -23,9 +23,12 @@ public class BinaryTreesBasics {
 //
 //        Diameter d = new Diameter();
 //        d.solution(root);
+//
+//        SumOfLeftLeaf sumOfLeftLeaf = new SumOfLeftLeaf();
+//        System.out.println(sumOfLeftLeaf.solution(root));
 
-        SumOfLeftLeaf sumOfLeftLeaf = new SumOfLeftLeaf();
-        System.out.println(sumOfLeftLeaf.solution(root));
+        IterPrePostIn i = new IterPrePostIn();
+        i.iterPrePostIn(root);
     }
 
 }

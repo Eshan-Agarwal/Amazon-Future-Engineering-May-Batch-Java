@@ -9,8 +9,6 @@ public class ConstructTreeWithStack {
         Edge() {
 
         }
-
-
         Edge(BinaryTreeNode node, int state) {
             this.node = node;
             this.state = state;
