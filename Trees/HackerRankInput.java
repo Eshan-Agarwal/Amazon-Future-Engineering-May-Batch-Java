@@ -1,8 +1,31 @@
-import java.util.Stack;
+import java.io.*;
+import java.util.*;
 
-public class ConstructTreeWithStack {
+public class Solution {
 
-    public class BinaryTreeNode {
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+
+        Scanner scn = new Scanner(System.in);
+        Integer[] arr = new Integer[scn.nextInt()];
+
+        for (int i = 0; i < arr.length; i++) {
+            String in = scn.next();
+            if (in.equals("n")){
+                arr[i] = null;
+            } else {
+                arr[i] = Integer.parseInt(in);
+            }
+        }
+
+        BinaryTreeNode root = construct(arr);
+
+        System.out.println(root.val + " " + root.left.val);
+
+    }
+
+
+    public static class BinaryTreeNode {
 
         int val;
         BinaryTreeNode left;
@@ -26,7 +49,7 @@ public class ConstructTreeWithStack {
 
     }
 
-    public class Edge {
+    public static class Edge {
         BinaryTreeNode node;
         int state;
 
@@ -39,7 +62,7 @@ public class ConstructTreeWithStack {
         }
     }
 
-    public BinaryTreeNode construct(Integer[] arr) {
+    public static BinaryTreeNode construct(Integer[] arr) {
         Stack<Edge> st = new Stack<>();
 
         // root node
@@ -80,5 +103,7 @@ public class ConstructTreeWithStack {
 
         return root;
     }
+
+
 
 }
