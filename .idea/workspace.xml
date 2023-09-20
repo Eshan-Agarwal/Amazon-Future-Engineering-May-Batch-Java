@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPS/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/CousinsBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/IterPrePostIn$Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/IterPrePostIn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/IterPrePostIn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/BinaryTreesBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/BinaryTreesBasics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/BinaryTreesBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/BinaryTreesBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/ConstructTreeWithStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/ConstructTreeWithStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

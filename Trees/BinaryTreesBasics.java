@@ -9,11 +9,11 @@ public class BinaryTreesBasics {
 //        root.left = leftRootChild;
 //        root.right = rightRootChild;
 
-        Integer[] arr = new Integer[]{10, 20, 50, null, 60, null, null, 30, 70, 65,null,null, 80, null, 90, null,null, 40, 100, null, null, null, null};
-
-        ConstructTreeWithStack constructTreeWithStack = new ConstructTreeWithStack();
-
-        BinaryTreeNode root = constructTreeWithStack.construct(arr);
+//        Integer[] arr = new Integer[]{10, 20, 50, null, 60, null, null, 30, 70, 65,null,null, 80, null, 90, null,null, 40, 100, null, null, null, null};
+//
+//        ConstructTreeWithStack constructTreeWithStack = new ConstructTreeWithStack();
+//
+//        BinaryTreeNode root = constructTreeWithStack.construct(arr);
 //
 //        LevelOrder levelOrder = new LevelOrder();
 //        levelOrder.solution(root);
@@ -26,9 +26,22 @@ public class BinaryTreesBasics {
 //
 //        SumOfLeftLeaf sumOfLeftLeaf = new SumOfLeftLeaf();
 //        System.out.println(sumOfLeftLeaf.solution(root));
+//
+//        IterPrePostIn i = new IterPrePostIn();
+//        i.iterPrePostIn(root);
 
-        IterPrePostIn i = new IterPrePostIn();
-        i.iterPrePostIn(root);
+//        int[] inorder = new int[]{4,2,5,1,6,3,7};
+        int[] postOrder = new int[]{4,5,2,6,7,3,1};
+        int[] preOrder = new int[]{1,2,4,5,3,6,7};
+
+//        ConstructFromInPostOrder construct = new ConstructFromInPostOrder();
+        ConstructFromPrePostOrder construct = new ConstructFromPrePostOrder();
+
+        BinaryTreeNode root = construct.construct(preOrder, postOrder);
+
+        LevelOrder levelOrder = new LevelOrder();
+        levelOrder.solution(root);
+
     }
 
 }

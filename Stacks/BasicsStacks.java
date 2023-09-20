@@ -24,8 +24,9 @@ public class BasicsStacks {
 
 //        solution();
 
-
+//
 //        MyNormalStack myNormalStack = new MyNormalStack(5);
+//        MyNormalStack myNormalStack1 = new MyNormalStack(15);
 //
 //        myNormalStack.push(10);
 //        myNormalStack.push(20);
