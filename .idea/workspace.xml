@@ -5,7 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/AddNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/BSTTest$Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/BSTTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/BSTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/BinaryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/RangeSumBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/RangeSumBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/RemoveNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/SizeSumMaxMinFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/SizeSumMaxMinFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTrees/BinaryTreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/BST/BST1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/GoodCode.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/BinaryTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/BinaryTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/BinaryTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/BinaryTreesBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/BinaryTreesBasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/BinaryTreesBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/BinaryTreesBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/ConstructFromInPostOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/ConstructFromInPostOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/ConstructFromInPostOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/ConstructFromInPostOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/ConstructFromPrePostOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/ConstructFromPrePostOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/ConstructFromPrePostOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/ConstructFromPrePostOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/ConstructTreeWithStack$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/ConstructTreeWithStack$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/ConstructTreeWithStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/ConstructTreeWithStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/ConstructTreeWithStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/ConstructTreeWithStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/CousinsBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/CousinsBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/Diameter$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/Diameter$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/Diameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/Diameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/Diameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/Diameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/HackerRankInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/HackerRankInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/InvertBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/IterPrePostIn$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/IterPrePostIn$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/IterPrePostIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/IterPrePostIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/IterPrePostIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/IterPrePostIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/LevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/LevelOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/LevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/SameTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/SameTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/SizeSumMaxHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/SizeSumMaxHeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/SumOfLeftLeaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/SumOfLeftLeaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/SumOfLeftLeaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/SumOfLeftLeaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/SumOfRootToLeafBinaryNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/SumOfRootToLeafBinaryNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/SumOfRootToLeafBinaryNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/SumOfRootToLeafBinaryNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/Traversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,22 +71,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/eagarwal/Desktop/Amazon-Future-Engineering-May-Batch-Java/Stacks&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/eagarwal/Desktop/Amazon-Future-Engineering-May-Batch-Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Stacks" />
@@ -64,6 +106,8 @@
       <option name="presentableId" value="Default" />
       <updated>1687023646884</updated>
       <workItem from="1694441607624" duration="7669000" />
+      <workItem from="1695221030447" duration="5659000" />
+      <workItem from="1695393568590" duration="8604000" />
     </task>
     <servers />
   </component>
