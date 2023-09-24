@@ -32,9 +32,10 @@ public class BSTTest {
 //
 //        System.out.println("Find: " + s.findNode(root, new BinaryTreeNode(70)));
 
-        RangeSumBST r = new RangeSumBST();
+//        RangeSumBST r = new RangeSumBST();
+//
+//        System.out.println(r.rangeSum(root, 7, 10));
 
-        System.out.println(r.rangeSum(root, 7, 10));
 
 
     }
