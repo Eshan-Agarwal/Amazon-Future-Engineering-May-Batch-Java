@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="" />
+    <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/BasicLL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/BasicLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/ConstructFromOrders.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/ConstructFromOrders.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "1.8",
@@ -64,6 +75,8 @@
       <workItem from="1694441607624" duration="7669000" />
       <workItem from="1695221030447" duration="5659000" />
       <workItem from="1695393568590" duration="8939000" />
+      <workItem from="1695531481979" duration="4394000" />
+      <workItem from="1695911723408" duration="5963000" />
     </task>
     <servers />
   </component>
