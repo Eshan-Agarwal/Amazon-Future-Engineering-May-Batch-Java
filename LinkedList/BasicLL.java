@@ -15,6 +15,14 @@ public class BasicLL {
 
         }
 
+        System.out.println("Before Reverse");
+        myLinkedList.printLL();
+
+        System.out.println("After Reverse");
+        ReverseLL r = new ReverseLL();
+//        Node nhead = r.reverseIterative(myLinkedList.head);
+        Node nhead = r.reverseRecursion(myLinkedList.head);
+        myLinkedList.head = nhead;
         myLinkedList.printLL();
     }
 
