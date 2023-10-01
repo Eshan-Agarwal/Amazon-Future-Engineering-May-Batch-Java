@@ -40,7 +40,7 @@ public class BasicLL {
 //        int num = convertToString(str);
 //        System.out.println(num);
 
-    }
+//    }
 
 //    public static int convertToString(String str) {
 //
@@ -57,7 +57,10 @@ public class BasicLL {
 //
 //        }
 //        return ans;
-//    }
+
+        RemoveDuplicates r = new RemoveDuplicates();
+        printLL(r.removeDuplicates(myLinkedList.head));
+    }
 
     public static void printLL(Node head) {
         if (head == null) return; // Edge case
