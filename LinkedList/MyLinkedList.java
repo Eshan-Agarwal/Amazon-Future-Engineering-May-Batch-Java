@@ -101,9 +101,7 @@ public class MyLinkedList {
             node.next = head;
             head = node;
         }
-
         size++;
-
     }
 
     public void removeLast() {
