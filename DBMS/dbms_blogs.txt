@@ -1,0 +1,16 @@
+1. What is DBMS: https://www.javatpoint.com/dbms-tutorial
+
+2. What is DataBase: https://www.javatpoint.com/what-is-database
+
+3. Types of DB's: https://www.javatpoint.com/types-of-databases (learn only, centralized, Relational DB, Non Relational)
+
+4. what is rdbms: https://www.javatpoint.com/what-is-rdbms
+
+5. DBMS vs RDBMS: https://www.javatpoint.com/difference-between-dbms-and-rdbms
+
+6. Diff tier 1, 2, 3: https://www.javatpoint.com/dbms-architecture
+7. 3 Schema Architecture: https://www.javatpoint.com/dbms-three-schema-architecture
+
+
+Amazon CDN: https://aws.amazon.com/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc
+
