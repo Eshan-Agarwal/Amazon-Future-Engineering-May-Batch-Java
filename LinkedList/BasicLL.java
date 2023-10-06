@@ -40,6 +40,9 @@ public class BasicLL {
 //        int num = convertToString(str);
 //        System.out.println(num);
 
+        Segregate01 s = new Segregate01();
+        Node ans = s.segreagate(myLinkedList.head);
+        printLL(myLinkedList.head);
 //    }
 
 //    public static int convertToString(String str) {
@@ -58,8 +61,8 @@ public class BasicLL {
 //        }
 //        return ans;
 
-        RemoveDuplicates r = new RemoveDuplicates();
-        printLL(r.removeDuplicates(myLinkedList.head));
+//        RemoveDuplicates r = new RemoveDuplicates();
+//        printLL(r.removeDuplicates(myLinkedList.head));
     }
 
     public static void printLL(Node head) {
