@@ -40,9 +40,9 @@ public class BasicLL {
 //        int num = convertToString(str);
 //        System.out.println(num);
 
-        Segregate01 s = new Segregate01();
-        Node ans = s.segreagate(myLinkedList.head);
-        printLL(myLinkedList.head);
+        SegregateOverPivot s = new SegregateOverPivot();
+        Node pi = s.stablePartition(myLinkedList.head);
+        printLL(pi);
 //    }
 
 //    public static int convertToString(String str) {
