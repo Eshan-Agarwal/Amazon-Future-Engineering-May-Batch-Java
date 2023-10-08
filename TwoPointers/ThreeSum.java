@@ -27,7 +27,7 @@ public class ThreeSum {
                     temp.add(arr[j]);
                     temp.add(arr[k]);
                     ans.add(temp);
-                    break;
+                    break; // to remove duplicate
                 }
             }
         }
