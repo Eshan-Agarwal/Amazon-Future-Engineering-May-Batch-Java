@@ -1,16 +1,23 @@
 1. What is DBMS: https://www.javatpoint.com/dbms-tutorial
-
 2. What is DataBase: https://www.javatpoint.com/what-is-database
-
 3. Types of DB's: https://www.javatpoint.com/types-of-databases (learn only, centralized, Relational DB, Non Relational)
-
 4. what is rdbms: https://www.javatpoint.com/what-is-rdbms
-
 5. DBMS vs RDBMS: https://www.javatpoint.com/difference-between-dbms-and-rdbms
-
 6. Diff tier 1, 2, 3: https://www.javatpoint.com/dbms-architecture
 7. 3 Schema Architecture: https://www.javatpoint.com/dbms-three-schema-architecture
+8. Data Models (ER-Model) : https://www.javatpoint.com/data-models
+9. DataBase Schema: https://www.javatpoint.com/dbms-data-model-schema-and-instance
+10. Data Independence: https://www.javatpoint.com/dbms-data-independence
+11. Data languages ***: https://www.javatpoint.com/dbms-language
+12. ACID Prop ***: https://www.javatpoint.com/acid-properties-in-dbms
+13.E-R Model ***: https://www.javatpoint.com/dbms-er-model-concept
+14. Strong and Weak Entity: https://www.javatpoint.com/entity-in-dbms#:~:text=The%20relationship%20between%20a%20strong,and%20the%20weak%20entity%20type.
+15. Primary, Candidate, Super, Foreign Key : https://www.javatpoint.com/dbms-keys
+
+
 
 
 Amazon CDN: https://aws.amazon.com/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc
+
+Gate Smasher: https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y
 
