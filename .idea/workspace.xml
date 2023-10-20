@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SlidingWindow/BinarySubArrSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SlidingWindow/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SlidingWindow/countNumberOfNiceSubArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/BasicsDP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/BasicsDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/ClimbingStairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/MinCostClimbingStair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/DP/DP1.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +43,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/eagarwal/Desktop/Amazon-Future-Engineering-May-Batch-Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eagarwal/Desktop/a/Amazon-Future-Engineering-May-Batch-Java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -80,6 +83,8 @@
       <workItem from="1696602851598" duration="11498000" />
       <workItem from="1697121143590" duration="5331000" />
       <workItem from="1697207787435" duration="8551000" />
+      <workItem from="1697639861696" duration="4752000" />
+      <workItem from="1697813948753" duration="4633000" />
     </task>
     <servers />
   </component>
