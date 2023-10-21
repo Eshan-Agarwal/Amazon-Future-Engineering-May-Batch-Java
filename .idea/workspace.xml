@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DP/BasicsDP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/BasicsDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/ClimbingStairs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/MinCostClimbingStair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/DP/DP1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +79,8 @@
       <workItem from="1697121143590" duration="5331000" />
       <workItem from="1697207787435" duration="8551000" />
       <workItem from="1697639861696" duration="4752000" />
-      <workItem from="1697813948753" duration="4633000" />
+      <workItem from="1697813948753" duration="5607000" />
+      <workItem from="1697898569762" duration="627000" />
     </task>
     <servers />
   </component>
