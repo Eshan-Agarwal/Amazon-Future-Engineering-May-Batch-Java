@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HashMap/FindItinerary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMap/FindItinerary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMap/KSortedArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMap/NumberOfEmpUnderManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashMap/NumberOfEmpUnderManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/HashMap/HM_Heap2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/GetCommonElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/GetCommonElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/GetCommonElementII.class" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/GetCommonElementII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/GetCommonElementII.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/GetCommonElementII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/HashMapBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/HashMapBasics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/HashMapBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/HashMapBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/HeapsBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/HeapsBasics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/HeapsBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/HeapsBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/HighestFreqChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/HighestFreqChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/HighestFreqChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/HighestFreqChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/getCommonElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/getCommonElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/kLargestElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/kLargestElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMap &amp; Heaps/kLargestElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap/kLargestElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/HashMap &amp; Heaps/HM1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/HashMap/HM1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/HashMap &amp; Heaps/HM_Heap_1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/HashMap/HM_Heap_1.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +81,7 @@
       <workItem from="1698418090599" duration="7137000" />
       <workItem from="1698653374726" duration="4000" />
       <workItem from="1699022114008" duration="12304000" />
+      <workItem from="1699626633101" duration="5751000" />
     </task>
     <servers />
   </component>
