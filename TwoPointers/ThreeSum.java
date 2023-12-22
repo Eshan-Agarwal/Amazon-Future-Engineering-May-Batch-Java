@@ -10,7 +10,7 @@ public class ThreeSum {
         List<List<Integer>> ans = new ArrayList<>();
 
         for (int i = 0; i < arr.length - 2; i++) {
-            int tar = -arr[i];
+            int tar = target - arr[i];
 
             int j = i + 1;
             int k = n - 1;
