@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b72009c3-397a-42ef-b085-c3613f74601e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Graphs/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graphs/DFS$Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graphs/DFS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graphs/DFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +89,7 @@
       <workItem from="1702047420423" duration="3875000" />
       <workItem from="1702136666298" duration="20483000" />
       <workItem from="1702737975641" duration="41000" />
-      <workItem from="1703339558835" duration="6150000" />
+      <workItem from="1703339558835" duration="13413000" />
     </task>
     <servers />
   </component>
