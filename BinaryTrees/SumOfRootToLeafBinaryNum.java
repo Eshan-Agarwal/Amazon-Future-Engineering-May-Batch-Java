@@ -19,6 +19,16 @@ public class SumOfRootToLeafBinaryNum {
         return left + right;
     }
 
+    public static int sol2(BinaryTreeNode node, int sum) {
+        if (root == null) return 0;
+
+        sum = sum * 2 + node.val;
+        if (root.left == null && root.rigth == null) return sum;
+
+        return sol2(root.left, sum) + sol2(root.right, sum);
+
+    }
+
     public static int anyBaseToDecimal(int n, int b1) {
 
         int ans = 0;

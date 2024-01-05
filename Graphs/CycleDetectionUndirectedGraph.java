@@ -3,20 +3,47 @@ public class CycleDetectionUndirectedGraph {
     public static void main(String[] args) {
 
         boolean[] visited = new boolean[v];
+        
+        boolean isCycle = false;
         for (int i = 0; i < v; i++) {
             if (!visited[i]) {
-                if (isCycle(graph, visited, i)) {
-                    System.out.println(true);
+                if (isCycleDFS(graph, visited, i, -1)) {
+                    isCycle = true;
                     break;
                 }
             }
         }
-
-        System.out.println(false);
+        
+        if (isCycle) {
+            System.out.println(true);
+        } else {
+            System.out.println(false);
+        }
 
     }
 
-    public static boolean isCycle(ArrayList<Edge>[] graph, boolean[] visited, int vertex) {
+
+    public static boolean isCycleDFS(ArrayList<Edge>[] graph, boolean[] visited, int currVertex, int parent) {
+
+        visited[currVertex] = true;
+
+        for (Edge e: graph[currVertex]) {
+            if (! visited[e.nbr]) {
+                if (isCycleDFS(graph, visited, e.nbr, currVertex)) {
+                    return true;
+                }
+            } else {
+                if (e.nbr != parent) {
+                    return true;
+                }
+            }
+        }
+
+        return false;
+
+    }
+
+    public static boolean isCycleBFS(ArrayList<Edge>[] graph, boolean[] visited, int vertex) {
 
         Queue<Integer> q = new ArrayDeque<>();
 

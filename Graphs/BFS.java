@@ -36,6 +36,7 @@ public class BFS {
             int v2 = Integer.parseInt(parts[1]);
 
             graph[v1].add(new Edge(v1, v2));
+            graph[v2].add(new Edge(v2, v1));
 
 
         }
